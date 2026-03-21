@@ -1,1 +1,16 @@
-este repositorio serve apenas para mostrar projetos de faculdade com o objetivo de exibir habilidades em C, não tem mais nenhum propósito 
+#ADS_Trabalhos
+
+Repositório com projetos do curso de Análise e Desenvolvimento de Sistemas (primeiros semestres).  
+Todos em linguagem C#, focados em lógica de programação, estruturas básicas e jogos simples em console.
+
+Lista de projetos
+
+- xadrez - Tabuleiro básico e movimentos das peças (implementação parcial conforme escopo da disciplina)
+- tetris - Versão simplificada em terminal
+- batalha naval - Jogo clássico com posicionamento e ataques
+- detetive quest - Jogo de investigação/quest em texto
+- free fire - Simulação inspirada no jogo (lógica de arena/turnos)
+- guerra - Jogo de estratégia simples
+- supertrunfo1 e supertrunfo2 - Jogo de cartas Super Trunfo (versão inicial e aprimorada)
+
+feitos no vscode(acho que é o melhor para se testar)
